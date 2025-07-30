@@ -16,4 +16,3 @@
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31b6wy2npgm7hux763humjctz6pq&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=7d0808&bar_color_cover=false" alt="spotify-github-profile" />
   </a>
 </p>
-![ezgif com-webp-to-gif-converter](https://github.com/user-attachments/assets/9fa69ffb-cc1b-4878-94b7-6f5844f6fbc8)
