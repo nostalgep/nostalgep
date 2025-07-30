@@ -11,3 +11,8 @@
   </font>
 </p>
 <img width="2160" height="769" alt="New Project 157  D883E6D" src="https://github.com/user-attachments/assets/2d4536f9-521f-4a0e-bd47-0c25678ac9e5" />
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31b6wy2npgm7hux763humjctz6pq&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31b6wy2npgm7hux763humjctz6pq&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=7d0808&bar_color_cover=false" alt="spotify-github-profile" />
+  </a>
+</p>
