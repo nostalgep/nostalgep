@@ -1,4 +1,3 @@
-<img width="2048" height="163" alt="tumblr_3fc3f43e4fdea8269573f7078c7b9888_23302e9d_2048" src="https://github.com/user-attachments/assets/a6f3ad4c-107e-4dbb-ac30-ec8d1b5e8e97" />
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nostalgep&color=430a0b&style=plastic&label=𝜗𝜚+profile+views+‎" alt="Profile Views" />
 </p> 
