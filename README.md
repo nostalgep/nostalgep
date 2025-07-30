@@ -1,4 +1,4 @@
-<img width="2048" height="163" alt="tumblr_629f9abecbb75f68dd3115a0d46fa781_a4dd26a6_2048" src="https://github.com/user-attachments/assets/764473e1-fa7b-4920-be15-6d1adc4e3c30" />
+<img width="2048" height="163" alt="tumblr_3fc3f43e4fdea8269573f7078c7b9888_23302e9d_2048" src="https://github.com/user-attachments/assets/a6f3ad4c-107e-4dbb-ac30-ec8d1b5e8e97" />
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nostalgep&color=430a0b&style=plastic&label=𝜗𝜚+profile+views+‎" alt="Profile Views" />
 </p> 
@@ -17,4 +17,4 @@
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31b6wy2npgm7hux763humjctz6pq&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=7d0808&bar_color_cover=false" alt="spotify-github-profile" />
   </a>
 </p>
-<img width="2048" height="163" alt="tumblr_d0f40c7b409eeaf18bcf7f67146228a4_819085df_2048" src="https://github.com/user-attachments/assets/a1b68cdb-f3fa-4fb0-8f95-41cfa98554f8" />
+<img width="2048" height="163" alt="tumblr_3fc3f43e4fdea8269573f7078c7b9888_23302e9d_2048" src="https://github.com/user-attachments/assets/a6f3ad4c-107e-4dbb-ac30-ec8d1b5e8e97" />
